@@ -1,0 +1,8 @@
+cd /Users/mickey/Desktop/audio-deepfake-detector
+cat > .gitignore << 'EOF'
+LA/
+__pycache__/
+*.pyc
+venv/
+.DS_Store
+EOF
