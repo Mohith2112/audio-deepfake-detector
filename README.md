@@ -1,3 +1,14 @@
+---
+title: Audio Deepfake Detector
+emoji: 🎙️
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: "1.58.0"
+app_file: app.py
+pinned: false
+---
+
 # 🎙️ Audio Deepfake Detector
 
 A CNN-based system that distinguishes genuine human speech from AI-generated / voice-cloned audio, trained and evaluated on the [ASVspoof 2019 LA](https://www.asvspoof.org/) benchmark dataset.
