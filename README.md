@@ -13,7 +13,7 @@ pinned: false
 
 A CNN-based system that distinguishes genuine human speech from AI-generated / voice-cloned audio, trained and evaluated on the [ASVspoof 2019 LA](https://www.asvspoof.org/) benchmark dataset.
 
-**[Live demo →](#)** *(add your Hugging Face Spaces link here once deployed)*
+**[Live demo →](https://huggingface.co/spaces/Mickeylabs/audio-deepfake-detector)**
 
 ---
 
